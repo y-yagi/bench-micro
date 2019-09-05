@@ -69,7 +69,7 @@ GEM
     method_source (0.8.2)
     mini_portile2 (2.2.0)
     minitest (5.10.3)
-    mustermann (1.0.1)
+    mustermann (1.0.3)
     mustermann-grape (1.0.0)
       mustermann (~> 1.0.0)
     newark (0.0.8)
@@ -87,7 +87,7 @@ GEM
       rack (>= 0.4)
     rack-app (7.3.2)
       rack
-    rack-protection (2.0.0)
+    rack-protection (2.0.2)
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -109,17 +109,17 @@ GEM
     roda (2.29.0)
       rack
     seg (1.2.0)
-    sinatra (2.0.0)
+    sinatra (2.0.2)
       mustermann (~> 1.0)
       rack (~> 2.0)
-      rack-protection (= 2.0.0)
+      rack-protection (= 2.0.2)
       tilt (~> 2.0)
     syro (3.0.1)
       rack (>= 1.6.0)
       seg
     thor (0.20.0)
     thread_safe (0.3.6)
-    tilt (2.0.8)
+    tilt (2.0.9)
     transproc (1.0.2)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
